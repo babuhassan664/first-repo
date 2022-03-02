@@ -1,0 +1,30 @@
+
+H1{
+    text-align: center;
+    color: blue;
+}
+h2{
+    color: rgb(223, 26, 118);
+}
+h3{
+    text-align: center;
+}
+
+.div-1{
+    background-color: chartreuse;
+    width: 500px;
+    text-align: center;
+    border: 3PX solid rgb(207, 21, 21);
+    border-radius: 5PX;
+  
+}
+.div-2{
+    background-color: cyan;
+    width: 500px;
+    border: 3PX dotted rgb(63, 16, 8);
+   
+}
+.GITTU{
+    text-align: center;
+    text-size-adjust: 24PX;
+}
